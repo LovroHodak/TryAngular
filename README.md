@@ -1,6 +1,14 @@
 1. ng new TryAngular
 2. ng serve --open
-3. 
+
+3. ng g c product-list
+4. ng g c top-bar
+
+5. ng g c product-alerts
+
+6. ng g c product-details
+
+7. ng g s cart
 
 # TryAngular
 
