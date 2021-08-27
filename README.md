@@ -10,6 +10,10 @@
 
 7. ng g s cart
 
+8. ng g c cart
+9. ng g c shipping
+10. 
+
 # TryAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
